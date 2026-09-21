@@ -14,7 +14,7 @@ function Header({ storeName }) {
       </nav>
       <a className="header-action" href="#collection">
         <span>Explore</span>
-        <span aria-hidden="true">↗</span>
+        <span aria-hidden="true">→</span>
       </a>
     </header>
   );
