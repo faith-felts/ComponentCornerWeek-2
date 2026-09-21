@@ -14,6 +14,6 @@ componentCorner/ \
 &emsp;&emsp;&emsp;&emsp;       ├── Hero.jsx \
 &emsp;&emsp;&emsp;&emsp;       ├── Hero.css \
 &emsp;&emsp;&emsp;&emsp;       ├── ProductCard.jsx \
-&emsp;&emsp;&emsp;&emsp;       └── ProductCard.css \
+&emsp;&emsp;&emsp;&emsp;       └── ProductCard.css 
         
         
